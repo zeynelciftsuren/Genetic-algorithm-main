@@ -63,22 +63,6 @@ This function is used to evaluate the fitness of each individual in the populati
 
 ---
 
-## Installation and Usage
-
-1. **Requirements**:
-   - .NET Framework 4.7 or higher.
-   - Visual Studio IDE (for WinForms development).
-
-2. **Steps**:
-   - Clone or download the source code:
-     ```bash
-     git clone https://github.com/haydarkadioglu/genetic-algorithm.git
-     ```
-   - Open the project in Visual Studio.
-   - Restore the required NuGet packages (e.g., `OxyPlot.WindowsForms`).
-   - Build and run the project.
-
----
 
 ## Project Structure
 
